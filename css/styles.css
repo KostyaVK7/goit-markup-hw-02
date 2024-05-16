@@ -95,6 +95,8 @@ background-color: #404bbf;
 .benefit-text{
     font-weight: 400;
     font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0,02em;
     color: #434455;  
 }
 
@@ -125,6 +127,8 @@ background-color: #404bbf;
 .Team-text{
     font-weight: 400;
     font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0,02em;
     color: #434455; 
 }
 /* PORTFOLIO */
@@ -152,6 +156,8 @@ background-color: #404bbf;
 .Portfolio-text{
     font-weight: 400;
     font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0,02em;
     color: ##434455;
 }
 
@@ -162,5 +168,7 @@ background-color: #404bbf;
 .footer-text{
     font-weight: 400;
     font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0,02em;
     color: #f4f4fd;
 }

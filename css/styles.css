@@ -28,10 +28,10 @@ color: #4d5ae5;
 color: #2e2f42;
 }
 .contacts {
-    font-style: normal;
+font-style: normal;
 }
 .contacts-menu-link {
-    font-style: normal;
+font-style: normal;
 }
 
 .menu-link {
@@ -44,7 +44,7 @@ color: #2e2f42;
 
 .menu-link:hover,
 .menu-link:focus {
-    color: #404bbf;
+color: #404bbf;
 }
 
 .contacts-menu-link {
@@ -52,12 +52,12 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-columns: #434455;
+color: #434455;
 }
 
 .contacts-menu-link:hover,
 .contacts-menu-link:focus {
-    color: #404bbf;
+color: #404bbf;
 }
 
 /* HERO */
@@ -137,7 +137,7 @@ background-color: #404bbf;
 }
 /* PORTFOLIO */
 
-.portfolio-title{
+.portfolio-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -146,7 +146,6 @@ background-color: #404bbf;
     text-transform: capitalize;
     color: #2e2f42;  
 }
-
 
 .portfolio-title-App{
     font-weight: 500;
@@ -160,7 +159,7 @@ background-color: #404bbf;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: ##434455;
+    color: #434455;
 }
 
 /* FOOTER */
@@ -179,6 +178,6 @@ background-color: #404bbf;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0cqb 0.02em;
+    letter-spacing: 0.02em;
     color: #f4f4fd;
 }
